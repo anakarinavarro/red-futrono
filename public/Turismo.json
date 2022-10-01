@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Carniceria Julio",
+		"adress": "Balmaceda 55",
+		"phone": "569 99999",
+		"img": "/Futrono-1.jpeg",
+		"descripcion": "Venta de carne",
+		"red": "",
+		"id": "1",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+	},
+	{
+		"name": "Carniceria Julio",
+		"adress": "Balmaceda 55",
+		"phone": "569 99999",
+		"img": "/Futrono-1.jpeg",
+		"descripcion": "Venta de carne",
+		"red": "",
+		"id": "2",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+	},
+	{
+		"name": "Carniceria Julio",
+		"adress": "Balmaceda 55",
+		"phone": "569 99999",
+		"img": "/Futrono-1.jpeg",
+		"descripcion": "Venta de carne",
+		"red": "",
+		"id": "3",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+	},
+	{
+		"name": "Carniceria Julio",
+		"adress": "Balmaceda 55",
+		"phone": "569 99999",
+		"img": "/Futrono-1.jpeg",
+		"descripcion": "Venta de carne",
+		"red": "",
+		"id": "4",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+	}
+]
