@@ -55,7 +55,7 @@ const Nabvar = () => {
 							to="/Emprendimientos"
 						>
 							<StoreIcon />
-							Emprendimientos
+							Comercio
 						</Link>
 						<Link className="btn btn-primary nav-link mx-2" to="/Anuncio">
 							<GroupAddIcon />

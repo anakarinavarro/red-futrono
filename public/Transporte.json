@@ -1,42 +1,24 @@
 [
 	{
 		"name": "Carniceria Julio",
+		"anfitrion": "xxxx",
 		"adress": "Balmaceda 55",
-		"phone": "569 99999",
+		"phone": "https://wa.me/56962022993",
 		"img": "/Futrono-1.jpeg",
 		"descripcion": "Venta de carne",
-		"red": "",
+		"red": "https://www.instagram.com/digitalranco/",
 		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
 	},
 	{
 		"name": "Carniceria Julio",
+		"anfitrion": "xxxx",
 		"adress": "Balmaceda 55",
-		"phone": "569 99999",
+		"phone": "https://wa.me/56962022993",
 		"img": "/Futrono-1.jpeg",
 		"descripcion": "Venta de carne",
-		"red": "",
+		"red": "https://www.instagram.com/digitalranco/",
 		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
-	},
-	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
-		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
-	},
-	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
-		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
 	}
 ]

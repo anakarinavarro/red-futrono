@@ -14,6 +14,7 @@ import Turismo from './view/Turismo';
 import Transporte from './view/Transporte';
 import Oficios from './view/Oficios';
 import LandingPage from './view/LandingPage';
+import Delivery from './view/Delivery';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -27,6 +28,7 @@ root.render(
 				<Route path="/Transporte" element={<Transporte />} />
 				<Route path="/Emprendimientos" element={<Emprendimientos />} />
 				<Route path="/Oficios" element={<Oficios />} />
+				<Route path="/Delivery" element={<Delivery />} />
 				<Route path="/LandingPage" element={<LandingPage />} />
 			</Route>
 		</Routes>

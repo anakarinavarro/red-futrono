@@ -1,42 +1,57 @@
 [
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
+		"name": "Ola_Daniela",
+		"anfitrion": "Daniela Ramirez",
+		"adress": "On line",
+		"phone": "https://wa.me/56 9 3218 3655",
+		"img": "/OLADANIELA.jpeg",
+		"descripcion": "gráfica a pincel. reciclado al paso. Diseño manual",
+		"red": "https://www.instagram.com/o_la_daniela/",
 		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
 	},
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
-		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"name": "Matika.autocuidado",
+		"anfitrion": "Gabriela Hidalgo",
+		"adress": "On line",
+		"phone": "https://wa.me/569 93186702",
+		"img": "/matika.jpeg",
+		"descripcion": "Cosmética natural. Preparaciones para el autocuidado y bienestar. Veganos y sin testeo animal ",
+		"red": "https://www.instagram.com/matika.autocuidado/",
+		"id": "2",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
 	},
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
-		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"name": "Aguita con harina",
+		"anfitrion": "Ana Navarro",
+		"adress": "On line",
+		"phone": "https://wa.me/56951251963",
+		"img": "/aguitaconharina.jpeg",
+		"descripcion": "Tejidos a crochet y decoracion",
+		"red": "https://www.instagram.com/tejidosaguitaconharina/",
+		"id": "3",
+		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
 	},
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
+		"name": "Chocolates Juanito",
+		"anfitrion": "Johanna Díaz M.",
+		"adress": "On line",
+		"phone": "https://wa.me/56934865566",
+		"img": "/chocjuanito.jpeg",
+		"descripcion": " variedad de productos en chocolateria artesanales personalizados y servicios de arriendos de juegos inflables para distintas edades",
+		"red": "https://www.instagram.com/chocolatesjuanitoyentretencion/",
+		"id": "4",
+		"horario": "lunes a viernes de 09:00 a 21:00 hrs"
+	},
+	{
+		"name": "Publica tu emprendimiento qui",
+		"anfitrion": "¿cual es tu nombre?",
+		"adress": "direccion",
+		"phone": "",
 		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
+		"descripcion": "¿que ofreces?",
 		"red": "",
-		"id": "1",
-		"horario de atencion": "lunes a viernes de 10:00 a 18:00 hrs"
+		"id": "5",
+		"horario": "horario de atencion"
 	}
 ]

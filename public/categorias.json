@@ -9,7 +9,7 @@
 		"name": "Servicios",
 		"id": "2",
 		"descripcion": "Alojamientos, Actividades al aire libre, Cabalgatas, etc",
-		"url": "/Turismo"
+		"url": "/Oficios"
 	},
 	{
 		"name": "Transporte",
@@ -24,9 +24,9 @@
 		"url": "/Delivery"
 	},
 	{
-		"name": "Emprendimientos",
+		"name": "Comercio",
 		"id": "5",
 		"descripcion": "Alojamientos, Actividades al aire libre, Cabalgatas, etc",
-		"url": "/Emprendimiento"
+		"url": "/Emprendimientos"
 	}
 ]

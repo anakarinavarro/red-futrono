@@ -1,42 +1,41 @@
 [
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
+		"name": "Comulai Alca",
+		"anfitrion": "Teresa Alca",
+		"adress": "Isla Huapi, Futrono",
+		"phone": "569 53131733",
 		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
+		"descripcion": "Turismo Mapuche, experiencias ancestrales",
 		"red": "",
 		"id": "1",
-		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+		"wifi": false,
+		"Estacionamiento": true,
+		"mascotas": true
 	},
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
+		"name": "Kutral Camping Pu Mol ",
+		"anfitrion": "María José Espinoza",
+		"adress": "Pumol",
+		"phone": "569 89394341",
+		"img": "/kutral.jpeg",
+		"descripcion": "Camping y cabañas , agua caliente y áreas verdes con vista a la cordillera ",
+		"red": "https://www.instagram.com/kutral_camping_pumol/",
 		"id": "2",
-		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+		"wifi": false,
+		"Estacionamiento": true,
+		"mascotas": true
 	},
 	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
+		"name": "Este Anuncio Puede ser tuyo ",
+		"anfitrion": "Digital Ranco",
+		"adress": "",
+		"phone": "569 62022993",
 		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
+		"descripcion": " ",
+		"red": "https://www.instagram.com/digitalranco/",
 		"id": "3",
-		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
-	},
-	{
-		"name": "Carniceria Julio",
-		"adress": "Balmaceda 55",
-		"phone": "569 99999",
-		"img": "/Futrono-1.jpeg",
-		"descripcion": "Venta de carne",
-		"red": "",
-		"id": "4",
-		"horario": "lunes a viernes de 10:00 a 18:00 hrs"
+		"wifi": false,
+		"Estacionamiento": true,
+		"mascotas": true
 	}
 ]
